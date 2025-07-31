@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "jest",
+    "test": "npx jest",
     "test:clean": "jest --silent=false --noStackTrace"
   },
   "keywords": [],
